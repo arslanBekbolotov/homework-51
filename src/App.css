@@ -2,5 +2,16 @@
   text-align: center;
 }
 
+.ball {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  margin-right: 10px;
+}
 
 
